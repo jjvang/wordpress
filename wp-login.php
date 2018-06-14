@@ -9,12 +9,16 @@
 <base href="http://jjvang.github.io/wordpress" />
 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo; Test &#8212; WordPress</title>
+	<title>Log In &lsaquo; Create A Website &#8212; WordPress</title>
 	
 <link rel='stylesheet' href='http://jjvang.github.io/wordpress/wp-admin/load-styles.php' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
-		</head>
+	<link rel="icon" href="http://jjvang.github.io/wordpress/contents/data/2018/06/cropped-weby-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://jjvang.github.io/wordpress/contents/data/2018/06/cropped-weby-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://jjvang.github.io/wordpress/contents/data/2018/06/cropped-weby-180x180.png" />
+<meta name="msapplication-TileImage" content="http://jjvang.github.io/wordpress/contents/data/2018/06/cropped-weby-270x270.png" />
+	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
@@ -54,7 +58,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="http://jjvang.github.io/wordpress/">&larr; Back to Test</a></p>
+	<p id="backtoblog"><a href="http://jjvang.github.io/wordpress/">&larr; Back to Create A Website</a></p>
 		
 	</div>
 
