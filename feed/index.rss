@@ -8,44 +8,22 @@
 	>
 
 <channel>
-	<title>Test</title>
+	<title>Create A Website</title>
 	<atom:link href="http://localhost/demo/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost/demo</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 05 Jun 2018 04:48:27 +0000</lastBuildDate>
+	<description>Win Win </description>
+	<lastBuildDate>Thu, 14 Jun 2018 00:38:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
-	<item>
-		<title>This is how you make a cool website</title>
-		<link>http://localhost/demo/this-is-how-you-make-a-cool-website/</link>
-		<comments>http://localhost/demo/this-is-how-you-make-a-cool-website/#respond</comments>
-		<pubDate>Tue, 05 Jun 2018 04:48:27 +0000</pubDate>
-		<dc:creator><![CDATA[test]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://localhost/demo/</guid>
-		<description><![CDATA[did it work?]]></description>
-				<content:encoded><![CDATA[<p>did it work?</p>
-]]></content:encoded>
-			<wfw:commentRss>http://localhost/demo/this-is-how-you-make-a-cool-website/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Hello world!</title>
-		<link>http://localhost/demo/hello-world/</link>
-		<comments>http://localhost/demo/hello-world/#comments</comments>
-		<pubDate>Tue, 05 Jun 2018 04:44:01 +0000</pubDate>
-		<dc:creator><![CDATA[test]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-
-		<guid isPermaLink="false">http://localhost/demo/</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://localhost/demo/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-	</channel>
+<image>
+	<url>http://localhost/demo/contents/data/2018/06/cropped-weby-32x32.png</url>
+	<title>Create A Website</title>
+	<link>http://localhost/demo</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
 </rss>
